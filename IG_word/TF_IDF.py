@@ -31,7 +31,7 @@ def bagOfWord2Vec(vocabList, inputSet):  # 词袋模型，vocabList词典，inpu
 
 
 def get_t_idf(df):  # 根据df来计算idf
-    N = 1440
+    N = 1600
     idf_array = []
     for tf in df:
         idf_array.append(math.log10((N + 1) / (tf + 1)) + 1)  # 公式计算idf
@@ -57,7 +57,7 @@ def tf_idf():
     df = np.sum(Vec, axis=0)  # 计算tf_idf中的df词语的频率
     idf_array = get_t_idf(df)  # 计算idf
     idf_array = np.array(idf_array)
-    print("idf的值", idf_array)
+    #print("idf的值", idf_array)
     train_vec_List = []
     for sentence in range(np.array(returnVec).shape[0]):
         train_vec_List.append(np.array(get_l_tf(np.array(returnVec)[sentence, :])) * idf_array)  # idf*tf

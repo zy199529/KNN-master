@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0c946822-3d93-4b67-8615-e751a7482b5e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/IG_word/Jacquard.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IG_word/KNN_add.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IG_word/CS.py" beforeDir="false" afterPath="$PROJECT_DIR$/IG_word/CS.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IG_word/KNN_classify.py" beforeDir="false" afterPath="$PROJECT_DIR$/IG_word/KNN_classify.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IG_word/TF_IDF.py" beforeDir="false" afterPath="$PROJECT_DIR$/IG_word/TF_IDF.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,7 +14,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/KNN_master$KNN_classify.coverage" NAME="KNN_classify Coverage Results" MODIFIED="1546842631331" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/IG_word" />
+    <SUITE FILE_PATH="coverage/KNN_master$KNN_classify.coverage" NAME="KNN_classify Coverage Results" MODIFIED="1547210126197" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/IG_word" />
     <SUITE FILE_PATH="coverage/IG_KNN$IG__1_.coverage" NAME="IG (1) Coverage Results" MODIFIED="1546414938161" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/IG_word" />
     <SUITE FILE_PATH="coverage/IG_KNN$SFLA.coverage" NAME="SFLA Coverage Results" MODIFIED="1546512045004" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/IG_word" />
     <SUITE FILE_PATH="coverage/KNN_master$IG__1_.coverage" NAME="IG (1) Coverage Results" MODIFIED="1546836561436" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/IG_word" />
@@ -25,6 +26,7 @@
     <SUITE FILE_PATH="coverage/KNN_master$CS.coverage" NAME="CS Coverage Results" MODIFIED="1547116419192" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/IG_word" />
     <SUITE FILE_PATH="coverage/IG_KNN$TF_IDF.coverage" NAME="TF_IDF Coverage Results" MODIFIED="1546346286855" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/IG_word" />
     <SUITE FILE_PATH="coverage/KNN_master$SFLA.coverage" NAME="SFLA Coverage Results" MODIFIED="1547025223637" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/IG_word" />
+    <SUITE FILE_PATH="coverage/KNN_master$KNN_add.coverage" NAME="KNN_add Coverage Results" MODIFIED="1547201900172" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/IG_word" />
     <SUITE FILE_PATH="coverage/IG_KNN$IG_reduction.coverage" NAME="IG_reduction Coverage Results" MODIFIED="1546418393174" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/IG_word" />
     <SUITE FILE_PATH="coverage/IG_KNN$word_process.coverage" NAME="word_process Coverage Results" MODIFIED="1546137543938" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/IG" />
     <SUITE FILE_PATH="coverage/IG_KNN$KNN_classify.coverage" NAME="KNN_classify Coverage Results" MODIFIED="1546427418097" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/IG_word" />
@@ -33,34 +35,19 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/IG_word/SFLA.py">
+        <entry file="file://$PROJECT_DIR$/IG_word/KNN_add.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1365">
-              <caret line="164" column="8" selection-start-line="164" selection-start-column="8" selection-end-line="164" selection-end-column="20" />
-              <folding>
-                <element signature="e#23#57#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="452">
+              <caret line="53" column="25" selection-start-line="53" selection-start-column="25" selection-end-line="53" selection-end-column="25" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/IG_word/CS.py">
+        <entry file="file://$PROJECT_DIR$/IG_word/KNN_classify.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="63">
-              <caret line="159" column="40" lean-forward="true" selection-start-line="159" selection-start-column="40" selection-end-line="159" selection-end-column="40" />
-              <folding>
-                <element signature="e#23#57#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/IG_word/Jacquard.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="229">
-              <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
+            <state relative-caret-position="252">
+              <caret line="15" column="16" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -68,8 +55,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/IG_word/TF_IDF.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="54" column="66" lean-forward="true" selection-start-line="54" selection-start-column="4" selection-end-line="54" selection-end-column="66" />
+            <state relative-caret-position="-378">
+              <caret line="50" column="13" lean-forward="true" selection-start-line="50" selection-start-column="13" selection-end-line="50" selection-end-column="13" />
               <folding>
                 <element signature="e#23#57#0" expanded="true" />
               </folding>
@@ -126,23 +113,25 @@
         <option value="$PROJECT_DIR$/IG_word/NaiveBayes.py" />
         <option value="$PROJECT_DIR$/CHI_NB/word_process.py" />
         <option value="$PROJECT_DIR$/IG_word/KNN_classify_sfla.py" />
-        <option value="$PROJECT_DIR$/IG_word/KNN_classify.py" />
         <option value="$PROJECT_DIR$/IG_word/IG_reduction.py" />
-        <option value="$PROJECT_DIR$/IG_word/word_process.py" />
         <option value="$PROJECT_DIR$/IG_word/IG.py" />
-        <option value="$PROJECT_DIR$/IG_word/TF_IDF.py" />
         <option value="$PROJECT_DIR$/IG_word/tf_idf_sfla.py" />
         <option value="$PROJECT_DIR$/IG_word/SFLA.py" />
         <option value="$PROJECT_DIR$/IG_word/Jacquard.py" />
         <option value="$PROJECT_DIR$/IG_word/lpd.py" />
         <option value="$PROJECT_DIR$/IG_word/CS.py" />
+        <option value="$PROJECT_DIR$/IG_word/KNN_add.py" />
+        <option value="$PROJECT_DIR$/IG_word/reduction_words.txt" />
+        <option value="$PROJECT_DIR$/IG_word/TF_IDF.py" />
+        <option value="$PROJECT_DIR$/IG_word/word_process.py" />
+        <option value="$PROJECT_DIR$/IG_word/KNN_classify.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="487" />
-    <option name="y" value="75" />
-    <option name="width" value="1430" />
+    <option name="x" value="-9" />
+    <option name="y" value="-9" />
+    <option name="width" value="1093" />
     <option name="height" value="995" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -178,16 +167,16 @@
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Lenovo\PycharmProjects\IG_KNN\CHI_NB" />
-      <recent name="C:\Users\Lenovo\PycharmProjects\IG_KNN\IG_word" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\wechat files\WeChat Files\z18360917609\Files\KNN-master\IG_word\train" />
       <recent name="D:\wechat files\WeChat Files\z18360917609\Files\KNN-master\IG_word" />
       <recent name="C:\Users\Lenovo\PycharmProjects\IG_KNN\CHI_NB" />
       <recent name="C:\Users\Lenovo\PycharmProjects\IG_KNN\IG_word\test_all" />
       <recent name="C:\Users\Lenovo\PycharmProjects\IG_KNN\IG_word" />
-      <recent name="C:\Users\Lenovo\PycharmProjects\IG_KNN\IG" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Lenovo\PycharmProjects\IG_KNN\CHI_NB" />
+      <recent name="C:\Users\Lenovo\PycharmProjects\IG_KNN\IG_word" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -202,7 +191,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.CS">
+  <component name="RunManager" selected="Python.KNN_classify">
     <configuration name="CS" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="IG_KNN" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -217,6 +206,28 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/IG_word/CS.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="KNN_add" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="IG_KNN" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/IG_word" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/IG_word/KNN_add.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -269,28 +280,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="TF_IDF" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="IG_KNN" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/IG_word" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/IG_word/TF_IDF.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="lpd" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="IG_KNN" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -315,11 +304,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.KNN_classify" />
+        <item itemvalue="Python.KNN_add" />
         <item itemvalue="Python.CS" />
         <item itemvalue="Python.lpd" />
         <item itemvalue="Python.SFLA" />
-        <item itemvalue="Python.KNN_classify" />
-        <item itemvalue="Python.TF_IDF" />
       </list>
     </recent_temporary>
   </component>
@@ -342,11 +331,12 @@
       <workItem from="1546495266397" duration="15158000" />
       <workItem from="1546827111088" duration="83237000" />
       <workItem from="1547082869393" duration="19088000" />
+      <workItem from="1547185223046" duration="18938000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="191180000" />
+    <option name="totallyTimeSpent" value="210118000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -360,12 +350,12 @@
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="848" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24798928" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1621984" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49865952" weight="0.31449276" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49932975" weight="0.6144928" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49932975" visible="true" weight="0.46086955" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -387,13 +377,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/IG/text/交通_41.TXT" />
-    <entry file="file://$PROJECT_DIR$/IG/word_process.py" />
-    <entry file="file://$PROJECT_DIR$/IG/IG.py" />
-    <entry file="file://$PROJECT_DIR$/IG_word/text100/交通_41.TXT" />
-    <entry file="file://$PROJECT_DIR$/IG_word/test.py" />
-    <entry file="file://$PROJECT_DIR$/IG_word/交通_41.TXT" />
-    <entry file="file://$PROJECT_DIR$/IG_word/test100/交通/交通_42.TXT" />
     <entry file="file://$PROJECT_DIR$/IG_word/环境_537.TXT" />
     <entry file="file://$PROJECT_DIR$/IG_word/电脑_12.TXT" />
     <entry file="file://$PROJECT_DIR$/IG_word/stop_words.txt">
@@ -447,9 +430,6 @@
     <entry file="file://$PROJECT_DIR$/IG_word/train/体育/6.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/IG_word/train/娱乐/1.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/IG_word/train/体育/5.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -478,13 +458,6 @@
     <entry file="file://$PROJECT_DIR$/IG_word/test_A/体育/201.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/IG_word/reduction_words.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="213">
-          <caret line="307" selection-start-column="2" selection-end-line="307" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/IG_word/tf_idf_sfla.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-769">
@@ -495,27 +468,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/IG_word/word_process.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3108">
-          <caret line="148" lean-forward="true" selection-start-line="148" selection-end-line="148" />
-          <folding>
-            <element signature="e#23#41#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/IG_word/IG.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
           <caret line="17" column="65" selection-start-line="17" selection-start-column="65" selection-end-line="17" selection-end-column="65" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/IG_word/KNN_classify.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="21">
-          <caret line="1" selection-start-line="1" selection-end-line="1" selection-end-column="28" />
         </state>
       </provider>
     </entry>
@@ -529,20 +485,11 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/IG_word/lpd.py" />
     <entry file="file://$PROJECT_DIR$/IG_word/SFLA.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1365">
+        <state relative-caret-position="3402">
           <caret line="164" column="8" selection-start-line="164" selection-start-column="8" selection-end-line="164" selection-end-column="20" />
-          <folding>
-            <element signature="e#23#57#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/IG_word/TF_IDF.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="54" column="66" lean-forward="true" selection-start-line="54" selection-start-column="4" selection-end-line="54" selection-end-column="66" />
           <folding>
             <element signature="e#23#57#0" expanded="true" />
           </folding>
@@ -551,25 +498,84 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/IG_word/Jacquard.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="229">
-          <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/IG_word/lpd.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="156">
-          <caret line="18" column="17" lean-forward="true" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
+        <state relative-caret-position="693">
+          <caret line="33" selection-start-line="33" selection-end-line="33" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/IG_word/CS.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="63">
-          <caret line="159" column="40" lean-forward="true" selection-start-line="159" selection-start-column="40" selection-end-line="159" selection-end-column="40" />
+        <state relative-caret-position="3528">
+          <caret line="168" column="24" lean-forward="true" selection-start-line="168" selection-start-column="24" selection-end-line="168" selection-end-column="24" />
           <folding>
             <element signature="e#23#57#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IG_word/train/娱乐/1.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IG_word/train/娱乐/2.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IG_word/train/娱乐/24.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IG_word/train/娱乐/26.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IG_word/train/游戏/1.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IG_word/train/娱乐/41.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IG_word/KNN_add.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="452">
+          <caret line="53" column="25" selection-start-line="53" selection-start-column="25" selection-end-line="53" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IG_word/word_process.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="127" selection-start-line="127" selection-end-line="129" selection-end-column="37" />
+          <folding>
+            <element signature="e#23#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IG_word/reduction_words.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="150" column="3" selection-start-line="150" selection-end-line="150" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IG_word/train/活动/1.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IG_word/TF_IDF.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-378">
+          <caret line="50" column="13" lean-forward="true" selection-start-line="50" selection-start-column="13" selection-end-line="50" selection-end-column="13" />
+          <folding>
+            <element signature="e#23#57#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IG_word/KNN_classify.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="15" column="16" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
         </state>
       </provider>
     </entry>
